@@ -1,0 +1,12 @@
+# remove text in sharp brackets
+<[^>]*>=
+# remove plus signs more than one
+\+{1,}?=
+# remove multiple whitespace
+\s+= 
+# remove asteriks
+\*=
+# remove picture credits
+(Foto: \w*)=
+# remove html &quot;
+&quot;=

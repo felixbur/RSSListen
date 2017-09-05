@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSS Listen</string>
+   <string name="removeEntries">clear data</string>
+   <string name="loadEntries">load data</string>
+   <string name="logEntries">log data (to console)</string>
+   <string name="showInfo">show info</string>
+   <string name="prev">prev</string>
+   <string name="readRss">start</string>
+   <string name="readText">read text</string>
+    <string name="startRec">start recognition</string>
+    <string name="stopRec">stop recognition</string>
+   <string name="readMails">mail</string>
+   <string name="readNews">news</string>
+   <string name="getMails">get mails</string>
+   <string name="search">search</string>
+   <string name="next">next</string>
+   <string name="stop">stop</string>
+   <string name="email_from">Absender</string>
+  <string name="email_subject">Betreff</string>
+  <string name="email_body">Inhalt</string>
+  <string name="email_attachments">Anlagen</string>
+<string name="email_lastMail">Das war die letzte Nachricht</string>
+<string name="svoxMale">male</string>
+<string name="action_settings">Aktionen</string>
+</resources>
